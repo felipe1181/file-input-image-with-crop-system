@@ -1,4 +1,4 @@
-### File input image with crop system in NextJS and Atomic design
+### File input image with crop system in NextJS, Tailwind and Atomic design
 
 ## Getting Started
 
